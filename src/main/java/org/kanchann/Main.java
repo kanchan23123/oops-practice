@@ -4,7 +4,7 @@ package org.kanchann;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Animal1 a1 = new Animal1();
+       /* Animal1 a1 = new Animal1();
         a1.sleep();
 
         Cat c = new Cat();
@@ -27,5 +27,7 @@ public class Main {
         b.color();
         b.sleep();
 
+    }*/
+
+
     }
-}
